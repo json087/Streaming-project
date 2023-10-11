@@ -20,9 +20,9 @@
   /**/
   --section-padding: 100px;
   /**/
-  --ff: 'Poppins', sans-serif; 
+  --ff: 'Poppins', sans-serif;
   --fw-500: 500;
-  --fw-700:700;
+  --fw-700: 700;
   /**/
   --fs-1: 36px;
   --fs-2: 32px;
@@ -56,14 +56,14 @@ button,
 ion-icon {
   display: block;
 }
-html{
-  font-family: var(--ff) ;
+html {
+  font-family: var(--ff);
   scroll-behavior: smooth;
 }
-body{
-  background: var(--eerie-black) ;
+body {
+  background: var(--eerie-black);
 }
-body.active{
+body.active {
   overflow: hidden;
 }
 .header{
